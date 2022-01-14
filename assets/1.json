@@ -1,0 +1,19 @@
+{
+	"name": "THE_TERMINATOR",
+	"symbol": "",
+	"image": "1.png",
+	"properties": {
+	  "files": [
+		{
+		  "uri": "1.png",
+		  "type": "image/png"
+		}
+	  ],
+	  "creators": [
+		{
+		  "address": "GbZuJq2wTswqehWqdPGbGmHdovMhHspSTiViePu218KL",
+		  "share": 100
+		}
+	  ]
+	}
+  }

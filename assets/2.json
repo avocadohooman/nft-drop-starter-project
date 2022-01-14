@@ -1,0 +1,19 @@
+{
+	"name": "TOTAL_RECALL",
+	"symbol": "",
+	"image": "2.png",
+	"properties": {
+	  "files": [
+		{
+		  "uri": "2.png",
+		  "type": "image/png"
+		}
+	  ],
+	  "creators": [
+		{
+		  "address": "GbZuJq2wTswqehWqdPGbGmHdovMhHspSTiViePu218KL",
+		  "share": 100
+		}
+	  ]
+	}
+  }
